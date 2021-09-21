@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sunyloem.github.io/sunyloem" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sunybethere
 github_username:  sunyloem
+logo: /pics/home.jpg
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0

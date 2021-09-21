@@ -5,4 +5,3 @@
 layout: default
 list_title: traces
 ---
-![fun](pics/home.jpg)
